@@ -31,7 +31,8 @@ activity : {
         {label : "text" , url : "url"},
         {label : "text" , url : "url"}
     ]
-}```
+}
+```
 
 Maintenant, remplissez y avec ce que vous voulez en sachant que:
 - Les "url" doivent être remplacer par des URL
