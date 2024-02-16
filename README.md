@@ -1,5 +1,6 @@
 # richpresence-discord
 Programme pour avoir une RichPresence sur discord
+*Nécessite d'avoir Node d'installer*
 
 ## Configuration
 Il vous faut avoir un bot discord
